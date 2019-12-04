@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Joseph Luntadila</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a master student of Innovation at University of Bristol. My interests include using data and analytics technologies to solve real-world problems, and provide data-evidence to inform decision-making for government bodies, businesses and NGOs. My projects seeks fundamentally to add value to the organization that I am working with&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Currently, I am working on three projects: (use black-white pic)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flood reanalyis and forest for DRC, particularly Kinshasa, to inform flood risk assessement and response&lt;/li&gt;
+&lt;li&gt;Developing an autmated performance Dashboard for insurance company using high level and deep dive KPIs&lt;/li&gt;
+&lt;li&gt;Food security model for Angolan Government thru a NGO&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

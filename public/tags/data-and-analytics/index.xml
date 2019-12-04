@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data and Analytics | Joseph Luntadila</title>
+    <link>/tags/data-and-analytics/</link>
+      <atom:link href="/tags/data-and-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data and Analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Data and Analytics</title>
+      <link>/tags/data-and-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Imporoving Compliance for an Insurance Company in the Lloyd London Market</title>
+      <link>/project/price-optimazation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/price-optimazation/</guid>
+      <description>&lt;p&gt;For companies working in an regulated sector such as insurance, compliance is a huge deal. In this project, I helped Canopius become more compliant by levaring Data Analytics.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Define the problem&lt;/li&gt;
+&lt;li&gt;Describe the Solution&lt;/li&gt;
+&lt;li&gt;the Impacts&lt;/li&gt;
+&lt;li&gt;My Learning&lt;/li&gt;
+&lt;li&gt;Their feedback&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;develop here
+Understand Risk over Time and Geography&lt;/p&gt;
+&lt;p&gt;Preimum and Claim Analyis over Time and Geography&lt;/p&gt;
+&lt;p&gt;Claim Classification&lt;/p&gt;
+&lt;p&gt;Factors impact Claim&lt;/p&gt;
+&lt;p&gt;Automate Underwriting through Model&lt;/p&gt;
+&lt;p&gt;Price Optimazation using Porfolio risk Profile and InHouse data&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Map of United states with different Risk Profile using Reduced DataSset on QGIS - do animation if possible.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
